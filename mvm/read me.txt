@@ -43,4 +43,4 @@ g_ragdoll_fadespeed 0
 g_ragdoll_lvfadespeed 0
 ragdoll_sleepaftertime 0
 
-all of these are extras in the folder for performance, this is what i, if you dont care you can leave it if not open the f4.cfg file and remove things you do not want
+all of these are extras in the folder for performance, this is what i use  personally, if you dont care you can leave it if not open the f4.cfg file and remove things you do not want
