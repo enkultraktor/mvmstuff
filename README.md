@@ -15,3 +15,5 @@ steam\SteamApps\common\Team Fortress 2\tf\cfg
 alternative to the config, if you want to make it an autoexec
 
 create a folder that everything that you want inside of it gets executed you do so with this +exec "name of the file here".cfg in the launch options
+
+if you do not make it into an auto exec, where it execs automatically, you need to open console and type " exec f4 " which would instantly load the exec
